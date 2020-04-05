@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586094216226.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3133832588",
+    "id" : "B27CF855",
+    "lastKnownWriteTime" : 1586094253,
+    "last_content_update" : 1586094253639,
+    "path" : "~/Documents/R/Temporary_add_to_version_control/Temporary_add_to_version_control.R",
+    "project_path" : "Temporary_add_to_version_control.R",
+    "properties" : {
+        "cursorPosition" : "0,10",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
